@@ -16,7 +16,18 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from rest_framework import routers
+from fyfapi.views import PoseView, register_user, login_user, YogiView
+from django.conf.urls import include
+
+router = routers.DefaultRouter(trailing_slash=False)
+router.register(r'poses', PoseView, 'pose')
+router.register(r'yogis', YogiView, 'yogi')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('register', register_user),
+    path('login', login_user),
+    path('', include(router.urls)),
+
 ]

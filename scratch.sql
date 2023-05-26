@@ -1,0 +1,2 @@
+DELETE FROM auth_user
+WHERE ID = 1

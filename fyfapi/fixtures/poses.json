@@ -1,0 +1,535 @@
+[
+  {
+    "model": "fyfapi.pose",
+    "pk": 1,
+    "fields": {
+      "sanskrit_name": "Navasana",
+      "english_name": "Boat",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678731668/boatstraightlegs_yqwihx.svg",
+      "peak": false,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 2,
+    "fields": {
+      "sanskrit_name": "Ardha Navasana",
+      "english_name": "Half-Boat",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678731884/boatbentlegs_vzpujc.svg",
+      "peak": false,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 3,
+    "fields": {
+      "sanskrit_name": "Dhanurasana",
+      "english_name": "Bow",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678731931/bow_iyvo5v.svg",
+      "peak": true,
+      "category": "prone"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 4,
+    "fields": {
+      "sanskrit_name": "Setu Bandha Sarvangasana",
+      "english_name": "Bridge",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678731984/bridge_z5b6kl.svg",
+      "peak": false,
+      "category": "supine"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 5,
+    "fields": {
+      "sanskrit_name": "Baddha Konasana",
+      "english_name": "Butterfly",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732026/butterfly__mal2ha.svg",
+      "peak": false,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 6,
+    "fields": {
+      "sanskrit_name": "Ustrasana",
+      "english_name": "Camel",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732114/camel_hkbd91.svg",
+      "peak": false,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 7,
+    "fields": {
+      "sanskrit_name": "Marjaryasana",
+      "english_name": "Cat",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732159/cat_iq2eht.svg",
+      "peak": false,
+      "category": "prone"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 8,
+    "fields": {
+      "sanskrit_name": "Bitilasana",
+      "english_name": "Cow",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732200/cow_yaflux.svg",
+      "peak": false,
+      "category": "prone"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 9,
+    "fields": {
+      "sanskrit_name": "Utkatasana",
+      "english_name": "Chair",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732236/chair_hwsmmu.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 10,
+    "fields": {
+      "sanskrit_name": "Balasana",
+      "english_name": "Child's Pose",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732276/child_gj5eei.svg",
+      "peak": false,
+      "category": "prone"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 11,
+    "fields": {
+      "sanskrit_name": "Sivasana",
+      "english_name": "Corpse",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732324/sivasana_fhwu3i.svg",
+      "peak": false,
+      "category": "supine"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 12,
+    "fields": {
+      "sanskrit_name": "Alanasana",
+      "english_name": "Crescent Lunge",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732384/highlunge_lquygt.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 13,
+    "fields": {
+      "sanskrit_name": "Bakasana",
+      "english_name": "Crow",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732419/crow_wt74ps.svg",
+      "peak": true,
+      "category": "inversion"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 14,
+    "fields": {
+      "sanskrit_name": "Ardha Pincha Mayurasana",
+      "english_name": "Dolphin",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732455/dolphin_wzrarp.svg",
+      "peak": true,
+      "category": "inversion"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 15,
+    "fields": {
+      "sanskrit_name": "Garudasana",
+      "english_name": "Eagle",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732531/eagle_opkp5u.svg",
+      "peak": true,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 16,
+    "fields": {
+      "sanskrit_name": "Adho Mukha Svanasana",
+      "english_name": "Downward-Facing Dog",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732493/downdog_ocaan4.svg",
+      "peak": false,
+      "category": "inversion"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 17,
+    "fields": {
+      "sanskrit_name": "Utthita Hasta Padangusthasana",
+      "english_name": "Extended Hand to Toe",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732585/extendedhandtotoe_wisvpm.svg",
+      "peak": true,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 18,
+    "fields": {
+      "sanskrit_name": "Utthita Parsvakonasana",
+      "english_name": "Extended Side Angle",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732621/extendedsideangle_btrio5.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 19,
+    "fields": {
+      "sanskrit_name": "Pincha Mayurasana",
+      "english_name": "Forearm Stand",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732659/forearmstand_azhwak.svg",
+      "peak": true,
+      "category": "inversion"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 20,
+    "fields": {
+      "sanskrit_name": "Uttanasana",
+      "english_name": "Forward Bend with Shoulder Opener",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732725/forwardfoldshoulderstretch_sd3g18.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 21,
+    "fields": {
+      "sanskrit_name": "Ardha Chandrasana",
+      "english_name": "Half-Moon",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732773/halfmoon_dzjsun.svg",
+      "peak": true,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 22,
+    "fields": {
+      "sanskrit_name": "Adho Mukha Vrksasana",
+      "english_name": "Handstand",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732805/handstand_nb74d6.svg",
+      "peak": true,
+      "category": "inversion"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 23,
+    "fields": {
+      "sanskrit_name": "Anjaneyasana",
+      "english_name": "Low Lunge",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732838/lowlunge_z6yaxs.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 24,
+    "fields": {
+      "sanskrit_name": "Supta Kapotasana",
+      "english_name": "Pigeon",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732869/pigeon_erb9hs.svg",
+      "peak": false,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 25,
+    "fields": {
+      "sanskrit_name": "Eka Pada Rajakapotasana",
+      "english_name": "King Pigeon",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732911/kingpigeon_b4cvhh.svg",
+      "peak": true,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 26,
+    "fields": {
+      "sanskrit_name": "Phalakasana",
+      "english_name": "Plank",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732946/plank_tatskx.svg",
+      "peak": false,
+      "category": "prone"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 27,
+    "fields": {}
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 27,
+    "fields": {
+      "sanskrit_name": "Halasana",
+      "english_name": "Plow",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678732980/plow_nqxjzo.svg",
+      "peak": false,
+      "category": "supine"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 28,
+    "fields": {
+      "sanskrit_name": "Parsvottanasana",
+      "english_name": "Pyramid",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733020/pyramid_sahldq.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 29,
+    "fields": {
+      "sanskrit_name": "Parsva Virabhadrasana",
+      "english_name": "Reverse Warrior",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733056/reverswarrior_klwwwl.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 30,
+    "fields": {
+      "sanskrit_name": "Paschimottanasana",
+      "english_name": "Seated Forward Bend",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733095/seatedforwardfold_jwjxyq.svg",
+      "peak": false,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 31,
+    "fields": {
+      "sanskrit_name": "Padmasana",
+      "english_name": "Lotus",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733183/seatedORlotus_tqqbsz.svg",
+      "peak": true,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 32,
+    "fields": {
+      "sanskrit_name": "Ardha Matsyendrasana",
+      "english_name": "Half Lord of the Fishes",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733220/seatedspinaltwist_mbt2aq.svg",
+      "peak": false,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 33,
+    "fields": {
+      "sanskrit_name": "Salamba Sarvangasana",
+      "english_name": "Shoulder Stand",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733258/shoulderstand_l0frkh.svg",
+      "peak": true,
+      "category": "supine"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 34,
+    "fields": {
+      "sanskrit_name": "Vasisthasana",
+      "english_name": "Side Plank",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733296/sideplank_yftzxg.svg",
+      "peak": true,
+      "category": "prone"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 35,
+    "fields": {
+      "sanskrit_name": "Salamba Bhujangasana",
+      "english_name": "Sphinx",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733334/sphinx_clvyte.svg",
+      "peak": false,
+      "category": "prone"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 36,
+    "fields": {
+      "sanskrit_name": "Hanumanasana",
+      "english_name": "Splits",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733376/splits_fl3hjj.svg",
+      "peak": true,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 37,
+    "fields": {
+      "sanskrit_name": "Malasana",
+      "english_name": "Squat",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733411/squat_nz0mu1.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 38,
+    "fields": {
+      "sanskrit_name": "Uttanasana",
+      "english_name": "Standing Forward Bend",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733461/standingforwardfold_hzrfos.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 39,
+    "fields": {
+      "sanskrit_name": "Ashta Chandrasana",
+      "english_name": "Crescent Moon",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733510/standingstretch_l2wrok.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 40,
+    "fields": {
+      "sanskrit_name": "Upavistha Konasana",
+      "english_name": "Wide Angle Middle Split",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733552/straddlesplit_ydus9z.svg",
+      "peak": true,
+      "category": "seated"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 41,
+    "fields": {
+      "sanskrit_name": "Vrksasana",
+      "english_name": "Tree",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733585/tree_hb32hg.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 42,
+    "fields": {
+      "sanskrit_name": "Trikonasana",
+      "english_name": "Triangle",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733623/triangle_z30ttt.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 43,
+    "fields": {
+      "sanskrit_name": "Urdhva Mukha Svsnssana",
+      "english_name": "Upward-Facing Dog",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733668/updog_qrqs1q.svg",
+      "peak": false,
+      "category": "prone"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 44,
+    "fields": {
+      "sanskrit_name": "Virabhadrasana One",
+      "english_name": "Warrior One",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733709/warrior1_kt7yqd.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 45,
+    "fields": {
+      "sanskrit_name": "Virabhadrasana Two",
+      "english_name": "Warrior Two",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733744/warrior2_hfcsjf.svg",
+      "peak": false,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 46,
+    "fields": {
+      "sanskrit_name": "Virabhadrasana Three",
+      "english_name": "Warrior Three",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733833/warrior3_hzb01t.svg",
+      "peak": true,
+      "category": "standing"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 47,
+    "fields": {
+      "sanskrit_name": "Urdhva Dhanurasana",
+      "english_name": "Wheel",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733791/wheel_kj1qn2.svg",
+      "peak": true,
+      "category": "supine"
+    }
+  },
+  {
+    "model": "fyfapi.pose",
+    "pk": 48,
+    "fields": {
+      "sanskrit_name": "Camatkarasana",
+      "english_name": "Wild Thing",
+      "img_url": "https://res.cloudinary.com/dndff6clf/image/upload/v1678733878/downdogflip_secklk.svg",
+      "peak": true,
+      "category": "supine"
+    }
+  }
+]

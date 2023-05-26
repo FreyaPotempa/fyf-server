@@ -1,0 +1,38 @@
+[
+  {
+    "model": "fyfapi.yogi",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "bio": "I'm just a googly moogly",
+      "userPhoto": "http://res.cloudinary.com/dndff6clf/image/upload/v1680627013/j7dhovsixdvo2m3cujqq.jpg"
+    }
+  },
+  {
+    "model": "fyfapi.yogi",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "bio": "I love street workout",
+      "userPhoto": "http://res.cloudinary.com/dndff6clf/image/upload/v1680204768/inqxlt9tpqtwelsrt2bd.jpg"
+    }
+  },
+  {
+    "model": "fyfapi.yogi",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "bio": "working hard or hardly working?",
+      "userPhoto": "http://res.cloudinary.com/dndff6clf/image/upload/v1680204045/eigsnpdiepqmbmacspic.jpg"
+    }
+  },
+  {
+    "model": "fyfapi.yogi",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "bio": "let's om together",
+      "userPhoto": "http://res.cloudinary.com/dndff6clf/image/upload/v1680204414/rnzcflf0binursbudew8.jpg"
+    }
+  }
+]

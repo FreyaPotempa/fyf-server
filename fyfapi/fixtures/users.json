@@ -1,0 +1,54 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "Googly",
+      "last_name": "Moogly",
+      "username": "googlymoogly",
+      "password": "googly",
+      "email": "googly@moogly.com",
+      "is_staff": false,
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "first_name": "Jack",
+      "last_name": "Janoso",
+      "username": "jackjanoso",
+      "password": "jack",
+      "email": "jack@janoso.com",
+      "is_staff": true,
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "first_name": "Buff",
+      "last_name": "McMuscles",
+      "username": "buffmcmuscles",
+      "password": "buff",
+      "email": "buff@mcmuscles.com",
+      "is_staff": true,
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "first_name": "Meg",
+      "last_name": "Vicious",
+      "username": "megvicious",
+      "password": "megv",
+      "email": "meg@vicious.com",
+      "is_staff": true,
+      "user_permissions": []
+    }
+  }
+]
